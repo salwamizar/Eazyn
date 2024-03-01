@@ -19,7 +19,7 @@ var_dump($sql); //tips cek isi query
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>EAZYN : Aplikasi untuk memudahkan perizinan</title>
+  <title>EAZYN : Aplikasi untuk memudahkan siswa</title>
   <link rel="shortcut icon" type="image/png" href="assets/images/logos/Logo1-eazyn.png" />
   <link rel="stylesheet" href="assets/css/styles.min.css" />
 </head>
